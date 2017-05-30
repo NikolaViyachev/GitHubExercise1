@@ -21,6 +21,8 @@ namespace Zadacha5
                 Console.WriteLine("|{0}{1}{2}", new string('.', 2 + 3 * (n - 2)), new string('#', 6 * n + 1), new string('.', 3 * (n - 1)));
             
             Console.WriteLine("@{0}{1}{2}", new string('.', 2+3*(n-2)), new string('#', 6*n+1), new string('.',  3 * (n - 1)));
+
+            Console.WriteLine("GitHub Exercise");
         }
     }
 }
